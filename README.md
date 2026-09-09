@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
+| [3871-count-commas-in-range-ii](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
