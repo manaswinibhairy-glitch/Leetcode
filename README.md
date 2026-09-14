@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0118-pascals-triangle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
