@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0118-pascals-triangle) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
