@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Geometry
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
