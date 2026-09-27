@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+| [1021-remove-outermost-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
