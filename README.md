@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
