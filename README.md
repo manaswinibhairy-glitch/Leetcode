@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
