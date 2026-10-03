@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/1927-sum-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
