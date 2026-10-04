@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manaswinibhairy-glitch/Leetcode/tree/master/0148-sort-list) |
